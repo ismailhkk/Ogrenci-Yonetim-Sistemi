@@ -9,8 +9,7 @@
         }
         static void Ekle(string ekle)
         {
-            //parametre kısmındaki veri tipini neye göre yazarız?
-            //öğrenci ekelemk için method oluşturup ana kod bloğumuzu daha basit hale getirdik ve daha sonra başka yerde öğrenci ekle methodunu kullanmak istediğimizde işimizi kolaylaştırmış olduk.
+          
 
             Console.WriteLine("Öğrenci ekle");
             Ogrenci ogrenci = new Ogrenci();
