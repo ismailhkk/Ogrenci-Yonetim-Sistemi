@@ -1,0 +1,14 @@
+D:\Works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.exe
+D:\Works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.deps.json
+D:\Works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.runtimeconfig.json
+D:\Works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.dll
+D:\Works\OgrenciYonetimSistemi\bin\Debug\net8.0\OgrenciYonetimSistemi.pdb
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.AssemblyInfoInputs.cache
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.AssemblyInfo.cs
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.csproj.CoreCompileInputs.cache
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.dll
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\refint\OgrenciYonetimSistemi.dll
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.pdb
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\OgrenciYonetimSistemi.genruntimeconfig.cache
+D:\Works\OgrenciYonetimSistemi\obj\Debug\net8.0\ref\OgrenciYonetimSistemi.dll
